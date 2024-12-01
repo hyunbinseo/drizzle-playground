@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"checkJs": true,
+		"outDir": "dist",
+		//
+		"module": "NodeNext",
+		"moduleResolution": "nodenext",
+		//
+		"strict": true,
+		"noFallthroughCasesInSwitch": true,
+		"noImplicitOverride": true,
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"noUncheckedIndexedAccess": true,
+		"exactOptionalPropertyTypes": true,
+		"allowUnreachableCode": false,
+		"allowUnusedLabels": false
+	}
+}
