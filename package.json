@@ -1,6 +1,7 @@
 {
 	"type": "module",
 	"dependencies": {
+		"@electric-sql/pglite": "^0.3.0",
 		"@libsql/client": "^0.15.4",
 		"drizzle-orm": "^0.43.1"
 	},
